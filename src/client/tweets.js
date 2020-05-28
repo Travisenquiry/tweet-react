@@ -1,4 +1,4 @@
-module.exports.tweets = [
+module.exports = [
   {
     "created_at": "Wed Feb 12 19:35:24 +0000 2020",
     "id": 1227677603365961728,
